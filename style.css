@@ -92,8 +92,8 @@ button {
 .sec2-2 {
     display: flex;
     flex-wrap: wrap;
-    margin-left: 250px;
-    margin-right: 250px;
+    margin-left: 180px;
+    margin-right: 180px;
     margin-bottom: 50px;
     justify-content: center;
 }
